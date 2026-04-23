@@ -10,6 +10,6 @@ I'm interested in Gen AI
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yash-205&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Yash-205&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
