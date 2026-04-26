@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm interested in Gen AI 
+Full-stack developer building scalable applications with integrated GenAI systems. Experienced in React, Node.js, and backend architecture, with a focus on LLMs, agent workflows, and context-aware products that solve real-world problems.
 
 
 # 💻 Tech Stack:
